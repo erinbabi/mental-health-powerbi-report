@@ -1,16 +1,7 @@
 # mental-health-powerbi-dashboard
 
 This project analyzes mental health care indicators in the United States during 4 weeks in 2020 using an interactive Power BI dashboard.
-The main goal is to understand:
-- How many people received mental health care
-- How many needed care but did not receive it
-- How many took prescription medication
-- What the overall Treatment Gap (%) looks like
-The dataset is from data.gov: "Mental Health Care in the Last 4 Weeks"
-
-The purpose of this dashboard is to measure the difference between mental health needs and access to treatment, identify states with unmet needs, and compare the behavior across demographic groups.
-Final goal:
-Provide a clear, visual report showing where mental health support was lacking during 4 weeks in 2020 and which groups were most affected.
+The purpose of this dashboard is to measure the difference between mental health needs and access to treatment, identify states with unmet needs, and compare the behavior across demographic groups, providing a clear, visual report showing where mental health support was lacking.
 
 The dashboard explores:
 - Therapy Received (%)
@@ -33,3 +24,11 @@ Files Included:
 - /screenshots – images of the report
 
 Tools Used: Power BI, Power Query, DAX
+
+The analysis shows that several U.S. states experienced a noticeable Treatment Gap (%), meaning people needed mental health care but did not receive it. The highest gaps were found in states such as Kentucky, Arkansas, Louisiana, Missouri, and Utah, indicating significant unmet mental health needs.
+
+Conclusion:
+- Medication use was consistently higher than therapy use.
+- Females reported higher therapy rates than males.
+- Younger age groups showed the most engagement with mental health services.
+- The national treatment gap remained small but present, showing that access to mental health care was not evenly distributed across demographic groups or states.
