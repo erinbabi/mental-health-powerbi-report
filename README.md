@@ -27,10 +27,9 @@ Key Features:
 - Custom DAX measures for accurate percentages
 
 Files Included:
-.pbix – Power BI report
-.pdf – dashboard export
-.csv – dataset
-/screenshots – images of the report
+- .pbix – Power BI report
+- .pdf – dashboard export
+- .csv – dataset
+- /screenshots – images of the report
 
-Tools Used:
-Power BI, Power Query, DAX
+Tools Used: Power BI, Power Query, DAX
