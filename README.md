@@ -1,9 +1,9 @@
-# mental-health-powerbi-dashboard
+# mental-health-powerbi-report
 
-This project analyzes mental health care indicators in the United States during 4 weeks in 2020 using an interactive Power BI dashboard.
+This project analyzes mental health care indicators in the United States during 4 weeks in 2020 using Power BI Desktop.
 The purpose of this dashboard is to measure the difference between mental health needs and access to treatment, identify states with unmet needs, and compare the behavior across demographic groups, providing a clear, visual report showing where mental health support was lacking.
 
-The dashboard explores:
+The report explores:
 - Therapy Received (%)
 - Therapy Needed but Not Received (%)
 - Medication Taken (%)
